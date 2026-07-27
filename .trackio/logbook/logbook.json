@@ -1,0 +1,75 @@
+{
+  "schema_version": 2,
+  "title": "chat_c234df10-a9c5-4320-a378-771694312489",
+  "emoji": "🎯",
+  "space_id": null,
+  "paper": null,
+  "tags": [],
+  "updated_at": "2026-07-27T06:14:24+00:00",
+  "root": {
+    "slug": "index",
+    "title": "chat_c234df10-a9c5-4320-a378-771694312489",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "executive-summary",
+        "title": "Executive summary",
+        "file": "pages/executive-summary/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-1-d-byz-sgdm-convergence-under-partial-participation",
+        "title": "Claim 1: D-Byz-SGDM convergence under partial participation",
+        "file": "pages/claim-1-d-byz-sgdm-convergence-under-partial-participation/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-2-theorem-4-1-convergence-guarantee",
+        "title": "Claim 2: Theorem 4.1 convergence guarantee",
+        "file": "pages/claim-2-theorem-4-1-convergence-guarantee/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-3-theorem-4-2-lower-bound",
+        "title": "Claim 3: Theorem 4.2 lower bound",
+        "file": "pages/claim-3-theorem-4-2-lower-bound/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-4-mnist-cnn-experiments",
+        "title": "Claim 4: MNIST CNN experiments",
+        "file": "pages/claim-4-mnist-cnn-experiments/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-5-non-byzantine-setting-performance",
+        "title": "Claim 5: Non-Byzantine setting performance",
+        "file": "pages/claim-5-non-byzantine-setting-performance/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-6-delayed-momentum-aggregation-mechanism",
+        "title": "Claim 6: Delayed momentum aggregation mechanism",
+        "file": "pages/claim-6-delayed-momentum-aggregation-mechanism/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      }
+    ]
+  },
+  "traces": [],
+  "workspace": {
+    "file": "workspace.json",
+    "file_count": 0,
+    "total_size": 0,
+    "bucket_id": null
+  },
+  "agent_view_tokens": 3456,
+  "trace_view_tokens": 10,
+  "workspace_view_tokens": 8,
+  "revision": "d6ea58dae94056d94dec"
+}

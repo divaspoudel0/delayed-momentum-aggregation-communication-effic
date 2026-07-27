@@ -1,0 +1,57 @@
+[
+  {
+    "scenario": "Paper default",
+    "n": 20,
+    "delta": 0.2,
+    "p": 0.5,
+    "n_byz": 4,
+    "avg_byz_in_sampled_pct": 20.2,
+    "byz_majority_rounds_pct": 0.1,
+    "byz_in_agg": 4,
+    "byz_pct_in_agg": 20.0
+  },
+  {
+    "scenario": "Paper default (25)",
+    "n": 25,
+    "delta": 0.2,
+    "p": 0.5,
+    "n_byz": 5,
+    "avg_byz_in_sampled_pct": 19.8,
+    "byz_majority_rounds_pct": 0.0,
+    "byz_in_agg": 5,
+    "byz_pct_in_agg": 20.0
+  },
+  {
+    "scenario": "High Byzantine, low participation",
+    "n": 20,
+    "delta": 0.3,
+    "p": 0.3,
+    "n_byz": 6,
+    "avg_byz_in_sampled_pct": 29.9,
+    "byz_majority_rounds_pct": 7.6,
+    "byz_in_agg": 6,
+    "byz_pct_in_agg": 30.0
+  },
+  {
+    "scenario": "Extreme: 40% Byzantine, 10% participation",
+    "n": 100,
+    "delta": 0.4,
+    "p": 0.1,
+    "n_byz": 40,
+    "avg_byz_in_sampled_pct": 40.2,
+    "byz_majority_rounds_pct": 20.4,
+    "byz_in_agg": 40,
+    "byz_pct_in_agg": 40.0
+  },
+  {
+    "scenario": "Paper extreme (p=0.1)",
+    "n": 20,
+    "delta": 0.2,
+    "p": 0.1,
+    "n_byz": 4,
+    "avg_byz_in_sampled_pct": 17.1,
+    "byz_majority_rounds_pct": 7.7,
+    "byz_in_agg": 4,
+    "byz_pct_in_agg": 20.0
+  }
+]
