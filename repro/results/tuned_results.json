@@ -1,0 +1,15 @@
+{
+  "DByz_cclip_none": 1.0514798164367676,
+  "DByz_cclip_bf": 1.191200613975525,
+  "DByz_cclip_ipm": 1.1382596492767334,
+  "FedAvg_cclip_none": 1.0595630407333374,
+  "FedAvg_cclip_bf": 1.191247582435608,
+  "FedAvg_cclip_ipm": 1.103528618812561,
+  "DByz_avg_none": 1.0482752323150635,
+  "DByz_avg_bf": 1.265077829360962,
+  "DByz_avg_ipm": 1.1341581344604492,
+  "FedAvg_avg_none": 1.039879322052002,
+  "FedAvg_avg_bf": 1.4164572954177856,
+  "FedAvg_avg_ipm": 1.1255755424499512,
+  "clean_baseline": 1.0482534170150757
+}
