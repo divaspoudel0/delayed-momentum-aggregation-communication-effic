@@ -1,7 +1,19 @@
 {
-  "space_id": "divaspoudel0/repro-delayed-momentum-aggregation-communication-efficient-byzantine-robust-federated-learning-w",
+  "space_id": "ICML-2026-agent-repro/repro-delayed-momentum-communication-efficient-byzantine-robust-federated-learning",
   "emoji": "🎯",
-  "tags": ["icml2026-repro", "paper-KG4CjK6j8Y"],
+  "tags": [
+    "icml2026-repro",
+    "paper-KG4CjK6j8Y"
+  ],
   "created_at": "2026-07-27T04:08:21+00:00",
-  "last_page": "executive-summary"
+  "last_page": "executive-summary",
+  "private": false,
+  "repos_public": false,
+  "embed_content": false,
+  "trace_dataset": "ICML-2026-agent-repro/repro-delayed-momentum-communication-efficient-byzantine-robust-federated-learning-traces",
+  "artifacts_bucket": "ICML-2026-agent-repro/repro-delayed-momentum-communication-efficient-byzantine-robust-federated-learning-artifacts",
+  "workspace_bucket": "ICML-2026-agent-repro/repro-delayed-momentum-communication-efficient-byzantine-robust-federated-learning-artifacts",
+  "trace_publication": "private",
+  "workspace_publication": "private",
+  "local_dashboards": {}
 }
